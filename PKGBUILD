@@ -33,6 +33,7 @@ makedepends=('qt5-svg'
              'libmediainfo'
              'libuv'
              'chrpath'
+             'python-setuptools'
              )
 sha256sums=('SKIP'
             'a3d30b3e198c3c117b2dd3144acaeb66117ee013744d2a0f39e9d4624b979a22'
